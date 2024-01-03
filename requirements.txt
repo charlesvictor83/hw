@@ -1,2 +1,2 @@
 pip==22.3.1
-packageing==23.1
+packaging==23.1
